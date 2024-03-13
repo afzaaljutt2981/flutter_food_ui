@@ -1,0 +1,1 @@
+ /Users/mac/Desktop/other/projectsGithub/flutter_food_app_ui/.dart_tool/flutter_build/e1a32a863b277bd2276540e2e9708d7a/native_assets.yaml: 

@@ -1,0 +1,4 @@
+#Wed Mar 13 11:45:59 PKT 2024
+base.0=/Users/mac/Desktop/other/projectsGithub/flutter_food_app_ui/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
